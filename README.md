@@ -21,8 +21,8 @@
 ### 📘 ReDoc
 - **ReDoc Docs**: `/api/redoc/`
 
-
-> ojo 👀 en la carpeta llamada settings en el archivo llamado base.py le configure a la carpeta con el nombre de client (cambienlen al nombre que rengan en el front)
+## Para el front
+ojo 👀 en la carpeta llamada settings en el archivo llamado base.py le configure a la carpeta del frontend con el nombre de client (cambienlen al nombre que tengan en el front)
 
 ## Correr el proyecto
 Para conocer los comandos que deben correr en el proyecto entren en el archivo [Makefile](./Makefile)🐍
