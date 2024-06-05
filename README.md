@@ -21,13 +21,16 @@
 ### 📘 ReDoc
 - **ReDoc Docs**: `/api/redoc/`
 
-## ⚙️ Instalación
 
 > ojo 👀 en la carpeta llamada settings en el archivo llamado base.py le configure a la carpeta con el nombre de client (cambienlen al nombre que rengan en el front)
 
 ## Correr el proyecto
 Para conocer los comandos que deben correr en el proyecto entren en el archivo [Makefile](./Makefile)🐍
 
-## Clonar el repositorio:
-```bash
-  git clone https://github.com/tuusuario/inventarios-api.git
+## ⚙️ Instalación
+1. Asegurese de tener Python instalado
+2. Clonar el repositorio: ```git clone https://github.com/coff3programing/react_drf.git```
+3. Cree el entorno virtual ``py -m venv env``
+4. entre al entorno virtual ``.env/scripts/activate``
+5. Escriba pip install -r requirements.txt
+6. La configuración de la base mysql de datos está en: settings/db.cnf
