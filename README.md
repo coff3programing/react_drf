@@ -32,5 +32,5 @@ Para conocer los comandos que deben correr en el proyecto entren en el archivo [
 2. Clonar el repositorio: ```git clone https://github.com/coff3programing/react_drf.git```
 3. Cree el entorno virtual ``py -m venv env``
 4. entre al entorno virtual ``.env/scripts/activate``
-5. Escriba pip install -r requirements.txt
+5. Escriba en la terminal ``pip install -r requirements.txt``
 6. La configuración de la base mysql de datos está en: settings/db.cnf
